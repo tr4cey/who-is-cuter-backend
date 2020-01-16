@@ -2,7 +2,7 @@
 
 A RESTful API that fetches pairs of pictures(title, link, and description) from a mySQL database designed to be used in the frontend application <a href="https://github.com/tr4cey/who-is-cuter-frontend">"Who is Cuter?"</a>. This application will get and display 2 photos of cute animals and allow the user to vote on which animal is cuter, updating the total number of votes and then displaying a new pair of photos
 
-Currently Avalible at: **Currently N/A Due to financial reasons :(**
+Currently Available at: **Currently N/A, will hopefully be available soon**
 
 ## Getting Started
 
